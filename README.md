@@ -4,7 +4,7 @@ Separate foreground and background using clustering (K-means).
 <br>
 ### True Image:
 
-![Image](true.png)
+![Image](a.png)
 
 ### Clustered Image:
 
