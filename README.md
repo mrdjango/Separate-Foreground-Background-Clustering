@@ -3,8 +3,9 @@ Separate foreground and background using clustering (K-means).
 <hr>
 <br>
 ### True Image:
-![Image](b.png)
+
+![Image](true.png)
 
 ### Clustered Image:
 
-![Image](a.png)
+![Image](output.png)
